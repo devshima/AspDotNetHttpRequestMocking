@@ -1,0 +1,2 @@
+# AspDotNetHttpRequestMocking
+ASP.NET WebFormで、ユニットテストでHttpRequest/HttpResponseするサンプル
